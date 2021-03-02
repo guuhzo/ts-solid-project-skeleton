@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "allowJs": true,
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "rootDir": "src",
+    "baseUrl": "./src",
+    "paths": {},
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+  },
+  "include": [
+    "./src"
+  ],
+  "exclude": [
+    "./babel.config.js",
+    "./ormconfig.js"
+  ]
+}
