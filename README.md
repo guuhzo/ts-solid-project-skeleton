@@ -8,4 +8,4 @@ This template is intended to help in the creation of new projects that will use 
 * [x] Error Middleware created
 * [x] SOLID folder pattern created
 * [x] Editorconfig file configured
-* [] Jest for tests
+* [ ] Jest for tests
